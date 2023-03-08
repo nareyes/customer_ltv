@@ -1,0 +1,9 @@
+{
+	"name": "bcltvdatafactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "06ed90db-8bc5-410b-b8bc-f3975929a1b3",
+		"tenantId": "3a13b434-1a06-4a17-a219-b729b0bf3604"
+	}
+}

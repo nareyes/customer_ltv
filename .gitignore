@@ -1,0 +1,7 @@
+# project directory
+csv/**/*.csv
+json/**/*.json
+creds/*.py
+__pycache__
+duckdb.exe
+*.duckdb*
