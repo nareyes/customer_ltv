@@ -2,9 +2,10 @@
 
 ## Project Scope
 - Integrate data from vendor API
-- Perform exploratory data analysis
-- Develop lifetime value logic
-- Develop customer segmentations for slicing lifetime value for different demographics
+- Perform exploratory data analysis locally
+- Develop lifetime value logic locally
+- Develop customer segmentations locally
+- Develop production environemnt (ADF, ADLS and Azure SQL Database)
 - Develop report for stakeholder consumption
 
 <br>
